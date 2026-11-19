@@ -1,0 +1,6 @@
+{
+  "name": "JMAC Security — Analítica de Delitos e Inteligencia",
+  "description": "Plataforma de inteligencia criminal y analítica de delitos para Ecuador con ingesta de datos Excel y análisis automatizado con IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
